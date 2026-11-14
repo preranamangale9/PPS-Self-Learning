@@ -17,5 +17,3 @@ My Programming Through Problem Solving assignments.
 - assignment3.c - Three student records
 - assignment5.c - Commented program
 
-
-<img width="1021" height="187" alt="assig 1-A" src="https://github.com/user-attachments/assets/981f0264-1470-4ab1-9652-f406886d46d5" />
